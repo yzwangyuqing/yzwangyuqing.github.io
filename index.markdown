@@ -7,11 +7,11 @@ layout: home
 
 I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. Molei Tao.
 
-## Research
+# Research
 
 I focus on the mathematical foundations of machine learning, especially from dynamical perspective. My research lies at the intersection of machine learning, optimization, sampling, (stochastic) dynamics, and computational math. Currently, I am interested in large language models and diffusion models.
 
-## Publications
+# Publications
 
 Evaluating the design space of diffusion-based generative models\
 **Yuqing Wang**, Ye He, Molei Tao\
