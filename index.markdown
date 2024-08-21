@@ -4,8 +4,7 @@
 
 layout: home
 ---
-ywang3398@gatech.edu
-
+ywang3398@gatech.edu\
 [CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en)
 
 
