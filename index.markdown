@@ -11,6 +11,8 @@ I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG progra
 
 I focus on the mathematical foundations of machine learning, especially from dynamical perspective. My research lies at the intersection of machine learning, optimization, sampling, (stochastic) dynamics, and computational math. Currently, I am interested in large language models and diffusion models.
 
+My [CV](https://github.com/yzwangyuqing/yzwangyuqing.github.io/blob/cb3b9a04f5cdae189d896a2d2216db6d08920ef7/CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en)
+
 # Publications
 
 Evaluating the design space of diffusion-based generative models\
