@@ -4,7 +4,7 @@
 
 layout: home
 ---
-ywang3398@gatech.edu\
+yq.wang@berkeley.edu\
 [CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en)
 
 
@@ -13,7 +13,7 @@ I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG progra
 
 # Research
 
-I focus on the mathematical foundations of machine learning, especially from dynamical perspective. My research lies at the intersection of machine learning, optimization, sampling, (stochastic) dynamics, and computational math. Currently, I am interested in large language models and diffusion models.
+I focus on the mathematical foundations of machine learning, especially from dynamical perspective. My research lies at the intersection of machine learning, optimization, sampling, (stochastic) dynamics, and computational math, especially implicit biases of large learning rates. Currently, I am also interested in large language models and diffusion models.
 
 
 
