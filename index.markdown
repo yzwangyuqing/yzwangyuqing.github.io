@@ -27,7 +27,7 @@ Good regularity creates large learning rate implicit biases: edge of stability, 
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
 preprint ([short version](https://openreview.net/pdf?id=6O15A3h2yl) accepted in M3L, NeurIPS 2023 workshop)    [pdf (long version)](https://arxiv.org/pdf/2310.17087.pdf)
 
-Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective\  
+Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective  \  
 Bo Yuan, Jiaojiao Fan, **Yuqing Wang**, Molei Tao, Yongxin Chen  \
 IEEE Control Systems Letters 2023   [pdf](https://ieeexplore.ieee.org/document/10147896)
 
@@ -40,5 +40,5 @@ Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect  \
 ICLR 2022   [pdf](https://arxiv.org/pdf/2110.03677.pdf)
 
 Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective  \
-Kaixuan Huang*, **Yuqing Wang***, Molei Tao, Tuo Zhao (*Equal contribution)  \
+Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
 NeurIPS 2020   [pdf](https://arxiv.org/pdf/2002.06262.pdf)
