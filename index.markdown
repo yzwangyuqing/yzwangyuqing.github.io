@@ -21,11 +21,11 @@ I focus on the mathematical foundations of machine learning, especially from dyn
 
 Evaluating the design space of diffusion-based generative models\
 **Yuqing Wang**, Ye He, Molei Tao\
-preprint   [pdf](https://arxiv.org/pdf/2406.12839)
+preprint   [pdf](https://arxiv.org/pdf/2406.12839)
 
 Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult\
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
-Preprint (short version accepted in M3L, NeurIPS 2023 workshop)   [pdf (short version)](https://openreview.net/pdf?id=6O15A3h2yl) [pdf (long version)](https://arxiv.org/pdf/2310.17087.pdf)
+preprint ([short version](https://openreview.net/pdf?id=6O15A3h2yl) accepted in M3L, NeurIPS 2023 workshop)    [pdf (long version)](https://arxiv.org/pdf/2310.17087.pdf)
 
 Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective\  
 Bo Yuan, Jiaojiao Fan, **Yuqing Wang**, Molei Tao, Yongxin Chen  \
