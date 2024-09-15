@@ -19,9 +19,9 @@ I focus on the mathematical foundations of machine learning, especially from dyn
 
 # Publications
 
-Evaluating the design space of diffusion-based generative models\
+[Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839)\
 **Yuqing Wang**, Ye He, Molei Tao\
-preprint   [pdf](https://arxiv.org/pdf/2406.12839)
+preprint  
 
 Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult\
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
