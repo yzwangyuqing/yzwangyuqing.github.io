@@ -4,8 +4,10 @@
 
 layout: home
 ---
-yq.wang@berkeley.edu\
-[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en)
+
+
+yq.wang@berkeley.edu 
+[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) 
 
 
 I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. Molei Tao.
@@ -23,22 +25,24 @@ I focus on the mathematical foundations of machine learning, especially from dyn
 **Yuqing Wang**, Ye He, Molei Tao\
 preprint  
 
-Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult\
+[Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf)
+\
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
-preprint ([short version](https://openreview.net/pdf?id=6O15A3h2yl) accepted in M3L, NeurIPS 2023 workshop)    [pdf (long version)](https://arxiv.org/pdf/2310.17087.pdf)
+preprint ([short version](https://openreview.net/pdf?id=6O15A3h2yl) accepted in M3L, NeurIPS 2023 workshop) 
 
-Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective  \  
+
+[Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective](https://ieeexplore.ieee.org/document/10147896)    
 Bo Yuan, Jiaojiao Fan, **Yuqing Wang**, Molei Tao, Yongxin Chen  \
-IEEE Control Systems Letters 2023   [pdf](https://ieeexplore.ieee.org/document/10147896)
+IEEE Control Systems Letters 2023   
 
-Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport  \
+[Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport](https://arxiv.org/pdf/2205.14173.pdf)  \
 Lingkai Kong, **Yuqing Wang**, Molei Tao  \
-ICLR 2023   [pdf](https://arxiv.org/pdf/2205.14173.pdf)
+ICLR 2023  
 
-Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect  \
+[Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf)  \
 **Yuqing Wang**, Minshuo Chen, Tuo Zhao, Molei Tao  \
-ICLR 2022   [pdf](https://arxiv.org/pdf/2110.03677.pdf)
+ICLR 2022  
 
-Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective  \
+[Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf)  \
 Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
-NeurIPS 2020   [pdf](https://arxiv.org/pdf/2002.06262.pdf)
+NeurIPS 2020  
