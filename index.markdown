@@ -17,11 +17,13 @@ layout: home
     </div>
 </div> -->
 
+<img src="photo.jpg" style="float: left;width:30%; margin-right:10%;"> 
 
+## Yuqing Wang
+yq.wang@berkeley.edu <br>
+[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) <br>
 
-yq.wang@berkeley.edu \
-[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) 
-
+<br clear="all" />
 
 I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. Molei Tao.
 
