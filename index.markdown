@@ -17,7 +17,7 @@ layout: home
     </div>
 </div> -->
 
-<img src="photo.jpg" style="float: left;width:30%; margin-right:10%;"> 
+<img src="photo.jpg" style="float: left;width:25%; margin-right:10%;"> 
 
 ## Yuqing Wang
 yq.wang@berkeley.edu <br>
