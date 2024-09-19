@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<div class="wrapper">
+<!-- <div class="wrapper">
     <div class="left-column">
         <img src="photo.jpg">
     </div>
@@ -15,12 +15,12 @@ layout: home
             <p>yq.wang@berkeley.edu</p>
             <p><a href="CV-4.pdf">CV</a></p> and <p><a href="https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en"> Google Scholar</a> </p>
     </div>
-</div>
+</div> -->
 
 
 
-<!-- yq.wang@berkeley.edu \
-[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en)  -->
+yq.wang@berkeley.edu \
+[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) 
 
 
 I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. Molei Tao.
