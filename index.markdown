@@ -38,7 +38,7 @@ I focus on the mathematical foundations of machine learning, especially from dyn
 
 [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839)\
 **Yuqing Wang**, Ye He, Molei Tao\
-preprint  
+NeurIPS 2024  
 
 [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf)
 \
@@ -56,8 +56,16 @@ ICLR 2023  
 
 [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf)  \
 **Yuqing Wang**, Minshuo Chen, Tuo Zhao, Molei Tao  \
-ICLR 2022  
+ICLR 2022  [video](https://recorder-v3.slideslive.com/?share=62680&s=8033b223-5733-4615-980e-6e7d6de0a914)
 
 [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf)  \
 Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
-NeurIPS 2020  
+NeurIPS 2020  [video](https://slideslive.com/38936904/why-do-deep-residual-networks-generalize-better-than-deep-feedforward-networks-a-neural-tangent-kernel-perspective)
+
+
+# Teaching
+
+TA in School of Mathematics, Georgia Institute of Technology:
+- MATH 2552 Differential Equation, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Spring 2022, Spring 2023, Fall 2023
+- MATH 2550 Introduction to Multivariable Calculus, Summer 2019, Summer 2024
+- MATH 2551 Multivariable Calculus, Spring 2020
