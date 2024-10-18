@@ -40,6 +40,10 @@ I focus on the mathematical foundations of machine learning, especially from dyn
 **Yuqing Wang**, Ye He, Molei Tao\
 NeurIPS 2024  
 
+[Provable Acceleration of Nesterov’s Accelerated Gradient for Rectangular Matrix Factorization and Linear Neural Networks](https://arxiv.org/pdf/2410.09640)\
+Zhenghao Xu, **Yuqing Wang**, Tuo Zhao, Rachel Ward, Molei Tao\
+NeurIPS 2024 
+
 [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf)
 \
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
