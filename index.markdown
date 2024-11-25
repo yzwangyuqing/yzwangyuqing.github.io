@@ -25,7 +25,7 @@ yq.wang@berkeley.edu <br>
 
 <br clear="all" />
 
-I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. Molei Tao.
+I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
 
 # Research
@@ -60,16 +60,19 @@ ICLR 2023  
 
 [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf)  \
 **Yuqing Wang**, Minshuo Chen, Tuo Zhao, Molei Tao  \
-ICLR 2022  [video](https://recorder-v3.slideslive.com/?share=62680&s=8033b223-5733-4615-980e-6e7d6de0a914)
+ICLR 2022 
 
 [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf)  \
 Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
-NeurIPS 2020  [video](https://slideslive.com/38936904/why-do-deep-residual-networks-generalize-better-than-deep-feedforward-networks-a-neural-tangent-kernel-perspective)
+NeurIPS 2020 
 
 
 # Teaching
 
-TA in School of Mathematics, Georgia Institute of Technology:
-- MATH 2552 Differential Equation, Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Spring 2022, Spring 2023, Fall 2023
-- MATH 2550 Introduction to Multivariable Calculus, Summer 2019, Summer 2024
-- MATH 2551 Multivariable Calculus, Spring 2020
+Teaching Assistant in School of Mathematics, Georgia Institute of Technology:
+- MATH 2552 Differential Equation  
+   <span style="color:#ABB2B9"> Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Spring 2022, Spring 2023, Fall 2023</span>
+- MATH 2550 Introduction to Multivariable Calculus \
+   <span style="color:#ABB2B9"> Summer 2019, Summer 2024</span>
+- MATH 2551 Multivariable Calculus \
+   <span style="color:#ABB2B9"> Spring 2020</span>
