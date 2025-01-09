@@ -20,12 +20,12 @@ layout: home
 <img src="photo.jpg" style="float: left;width:25%; margin-right:10%;"> 
 
 ## Yuqing Wang
-yq.wang@berkeley.edu <br>
+ywan1050@jh.edu <br>
 [CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) <br>
 
 <br clear="all" />
 
-I am a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. Before that, I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
+I am a postdoc in the AMS department at JHU. Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
 
 # Research
