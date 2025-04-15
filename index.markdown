@@ -75,7 +75,7 @@ NeurIPS 2020
 
 # Teaching
 Instructor in AMS department, JHU:
-- 553.361 Introduction to Optimization I
+- 553.361 Introduction to Optimization I\
    <span style="color:#ABB2B9"> Spring 2025</span>
 
 Teaching Assistant in School of Mathematics, Georgia Tech:
