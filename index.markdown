@@ -25,7 +25,7 @@ ywan1050@jh.edu <br>
 
 <br clear="all" />
 
-I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/). Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the MPG program in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
+I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/). Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the [MPG program](https://simons.berkeley.edu/programs/modern-paradigms-generalization) in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
 
 # Research
@@ -66,10 +66,19 @@ ICLR 2022
 Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
 NeurIPS 2020 
 
+# Recent talks
+07/2025: International Conference on Continuous Optimization (ICCOPT)\
+05/2025: Dynamical Systems for Machine Learning (MS141), SIAM Conference on Applications of Dynamical Systems (DS25)\
+04/2025: CMX seminar, Caltech\
+04/2025: AMS postdoc seminar, JHU
+
 
 # Teaching
+Instructor in AMS department, JHU:
+- 553.361 Introduction to Optimization I
+   <span style="color:#ABB2B9"> Spring 2025</span>
 
-Teaching Assistant in School of Mathematics, Georgia Institute of Technology:
+Teaching Assistant in School of Mathematics, Georgia Tech:
 - MATH 2552 Differential Equation  
    <span style="color:#ABB2B9"> Fall 2018, Spring 2019, Fall 2019, Fall 2020, Spring 2021, Spring 2022, Spring 2023, Fall 2023</span>
 - MATH 2550 Introduction to Multivariable Calculus \
