@@ -68,6 +68,7 @@ NeurIPS 2020
 
 # Recent talks
 - 07/2025: International Conference on Continuous Optimization (ICCOPT)
+- 05/2025: Math Machine Learning seminar, MPI MiS + UCLA
 - 05/2025: Dynamical Systems for Machine Learning (MS141), SIAM Conference on Applications of Dynamical Systems (DS25)
 - 04/2025: CMX seminar, Caltech
 - 04/2025: AMS postdoc seminar, JHU
