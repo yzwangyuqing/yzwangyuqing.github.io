@@ -67,11 +67,11 @@ Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  
 NeurIPS 2020 
 
 # Recent talks
-- 07/2025: International Conference on Continuous Optimization (ICCOPT)
-- 05/2025: Math Machine Learning seminar, MPI MiS + UCLA
-- 05/2025: Dynamical Systems for Machine Learning (MS141), SIAM Conference on Applications of Dynamical Systems (DS25)
-- 04/2025: CMX seminar, Caltech
-- 04/2025: AMS postdoc seminar, JHU
+- 07/24/2025: [Optimization Meets Generative AI: Insights and New Designs](https://iccopt2025usc.sched.com/event/1ePvG/parallel-sessions-10d-optimization-meets-generative-ai-insights-and-new-designs), International Conference on Continuous Optimization (ICCOPT)
+- 05/29/2025: [Math Machine Learning seminar](https://www.mis.mpg.de/events/series/math-machine-learning-seminar-mpi-mis-ucla), MPI MiS + UCLA
+- 05/14/2025: [Dynamical Systems for Machine Learning (MS141)](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=82755), SIAM Conference on Applications of Dynamical Systems (DS25)
+- 04/22/2025: [CMX seminar](https://cmx.caltech.edu), Caltech
+- 04/16/2025: AMS postdoc seminar, JHU
 
 
 # Teaching
