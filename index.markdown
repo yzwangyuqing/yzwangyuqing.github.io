@@ -30,11 +30,33 @@ I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekid
 
 # Research
 
-I focus on the mathematical foundations of machine learning, especially from dynamical perspective. My research lies at the intersection of machine learning, optimization, sampling, (stochastic) dynamics, and computational math, especially implicit biases of large learning rates. Currently, I am also interested in large language models and diffusion models.
+I am interested in developing the mathematical foundations of deep learning theory in all its aspects, especially from a dynamical perspective. My research lies at the intersection of machine learning and applied math, combining tools from optimization, (stochastic) dynamics, computational math, analysis, topology, and sampling. I am currently also interested in large language models and diffusion models.
+
+Specifically, my work includes studying the effects of the following:
+
+- Training dynamics
+  - Large learning rate: \
+    [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>\
+    [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf) <span style="color:#999999"> _with Minshuo Chen, Tuo Zhao, Molei Tao_</span>
+  - Regular learning rate (for a family of neural network architectures): \
+    [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120) <span style="color:#999999"> _with Shangding Gu_</span>
+  - Infinitesimal learning rate (gradient flow/NTK regime), and other hyperparameters in diffusion model: \
+    [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839) <span style="color:#999999"> _with Ye He, Molei Tao_</span>
+
+- Data\
+  [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120) <span style="color:#999999"> _with Shangding Gu_</span>
+- Architecture\
+  [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf) <span style="color:#999999"> _with Kaixuan Huang, Molei Tao, Tuo Zhao_</span>
 
 
 
-# Publications
+
+
+# Preprints and Publications
+
+[Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120)\
+**Yuqing Wang**, Shangding Gu\
+preprint
 
 [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839)\
 **Yuqing Wang**, Ye He, Molei Tao\
