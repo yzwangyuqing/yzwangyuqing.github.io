@@ -98,9 +98,9 @@ NeurIPS 2020
 
 # Teaching
 Instructor in AMS department, JHU:
-- 553.432 Bayesian Statistics\
+- EN 553.432 Bayesian Statistics\
    <span style="color:#ABB2B9"> Fall 2025</span>
-- 553.361 Introduction to Optimization I\
+- EN 553.361 Introduction to Optimization I\
    <span style="color:#ABB2B9"> Spring 2025</span>
 
 Teaching Assistant in School of Mathematics, Georgia Tech:
