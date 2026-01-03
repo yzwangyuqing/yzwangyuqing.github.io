@@ -27,6 +27,8 @@ ywan1050@jh.edu <br>
 
 I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/). Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the [MPG program](https://simons.berkeley.edu/programs/modern-paradigms-generalization) in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
+I will be on the job market in fall 2026.
+
 
 # Research
 
