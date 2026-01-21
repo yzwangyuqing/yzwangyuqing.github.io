@@ -106,7 +106,7 @@ Instructor in AMS department, JHU:
 - EN 553.432 Bayesian Statistics\
    <span style="color:#ABB2B9"> Fall 2025</span>
 - EN 553.361 Introduction to Optimization I\
-   <span style="color:#ABB2B9"> Spring 2025</span>
+   <span style="color:#ABB2B9"> Spring 2025, Spring 2026</span>
 
 Teaching Assistant in School of Mathematics, Georgia Tech:
 - MATH 2552 Differential Equation  
