@@ -91,6 +91,7 @@ Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  
 NeurIPS 2020 
 
 # Recent talks
+- 01/2026: MPG reunion workshop, Simons Institute
 - 01/2026: JMM
 - 11/2025: SIAM NNP
 - 07/2025: [Optimization Meets Generative AI: Insights and New Designs](https://iccopt2025usc.sched.com/event/1ePvG/parallel-sessions-10d-optimization-meets-generative-ai-insights-and-new-designs), International Conference on Continuous Optimization (ICCOPT)
