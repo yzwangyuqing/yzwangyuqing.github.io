@@ -38,7 +38,7 @@ Specifically, my work includes studying the effects of the following:
 
 - Training dynamics
   - Large learning rate: \
-    [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>\
+    [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>\
     [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf) <span style="color:#999999"> _with Minshuo Chen, Tuo Zhao, Molei Tao_</span>
   - Regular learning rate (for a family of neural network architectures): \
     [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120) <span style="color:#999999"> _with Shangding Gu_</span>
@@ -68,10 +68,10 @@ NeurIPS 2024  
 Zhenghao Xu, **Yuqing Wang**, Tuo Zhao, Rachel Ward, Molei Tao\
 NeurIPS 2024 
 
-[Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](https://arxiv.org/pdf/2310.17087.pdf)
+[Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf)
 \
 **Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
-preprint ([short version](https://openreview.net/pdf?id=6O15A3h2yl) accepted in M3L, NeurIPS 2023 workshop) 
+JMLR 
 
 
 [Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective](https://ieeexplore.ieee.org/document/10147896)    
