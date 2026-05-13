@@ -17,7 +17,7 @@ layout: home
     </div>
 </div> -->
 
-<img src="photo.jpg" style="float: left;width:25%; margin-right:10%;"> 
+<img src="Wang_Yuqing_headshot.jpg" style="float: left;width:25%; margin-right:10%;"> 
 
 ## Yuqing Wang
 ywan1050@jh.edu <br>
