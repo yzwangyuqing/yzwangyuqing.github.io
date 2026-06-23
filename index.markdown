@@ -41,7 +41,7 @@ Specifically, my work includes studying the effects of the following:
     [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>\
     [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf) <span style="color:#999999"> _with Minshuo Chen, Tuo Zhao, Molei Tao_</span>
   - Regular learning rate (for a family of neural network architectures): \
-    [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120) <span style="color:#999999"> _with Shangding Gu_</span>
+    [Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime](https://arxiv.org/pdf/2606.23364) 
   - Infinitesimal learning rate (gradient flow/NTK regime), and other hyperparameters in diffusion model: \
     [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839) <span style="color:#999999"> _with Ye He, Molei Tao_</span>
 
@@ -55,6 +55,10 @@ Specifically, my work includes studying the effects of the following:
 
 
 # Preprints and Publications
+
+[Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime](https://arxiv.org/pdf/2606.23364)\
+**Yuqing Wang**\
+preprint
 
 [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120)\
 **Yuqing Wang**, Shangding Gu\
