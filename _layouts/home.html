@@ -2,12 +2,22 @@
 layout: base
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="site-shell">
+  <aside class="section-sidebar" aria-label="Page navigation">
+    <nav class="section-nav">
+      <a href="#research">Research</a>
+      <a href="#preprints-and-publications">Publications</a>
+      <a href="#recent-talks">Talks</a>
+      <a href="#teaching">Teaching</a>
+    </nav>
+  </aside>
 
-  {{ content }}
+  <article class="home">
+    {%- if page.title -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
 
 
   <!-- {% if site.paginate %}
@@ -58,4 +68,5 @@ layout: base
 
   {%- endif -%}
 
+  </article>
 </div>

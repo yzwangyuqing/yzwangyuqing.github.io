@@ -17,17 +17,18 @@ layout: home
     </div>
 </div> -->
 
-<img src="Wang_Yuqing_headshot.jpg" style="float: left;width:25%; margin-right:10%;"> 
-
-## Yuqing Wang
-ywan1050@jh.edu <br>
-[CV](CV-4.pdf) and [Google Scholar](https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en) <br>
-
-<br clear="all" />
+<section class="profile-card">
+  <img class="profile-photo" src="Wang_Yuqing_headshot.jpg" alt="Yuqing Wang">
+  <div class="profile-details">
+    <h1 class="profile-name">Yuqing Wang</h1>
+    <p class="profile-email">ywan1050@jh.edu</p>
+    <p class="profile-links"><a href="CV-4.pdf">CV</a><span aria-hidden="true">·</span><a href="https://scholar.google.com/citations?user=c7Bi9RUAAAAJ&hl=en">Google Scholar</a></p>
+  </div>
+</section>
 
 I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/). Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the [MPG program](https://simons.berkeley.edu/programs/modern-paradigms-generalization) in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
-I will be on the job market in fall 2026.
+<span class="job-market-note">I will be on the academic job market in the 2026-2027 cycle.</span>
 
 
 # Research
@@ -56,43 +57,54 @@ Specifically, my work includes studying the effects of the following:
 
 # Preprints and Publications
 
-[Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime](https://arxiv.org/pdf/2606.23364)\
-**Yuqing Wang**\
-preprint
+<div class="publication-list">
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2606.23364">Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong></p>
+    <p class="publication-venue">Preprint</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2506.24120">Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong>, Shangding Gu</p>
+    <p class="publication-venue">Preprint</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2406.12839">Evaluating the design space of diffusion-based generative models</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong>, Ye He, Molei Tao</p>
+    <p class="publication-venue">NeurIPS 2024</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2410.09640">Provable Acceleration of Nesterov’s Accelerated Gradient for Rectangular Matrix Factorization and Linear Neural Networks</a>
+    <p class="publication-authors">Zhenghao Xu, <strong>Yuqing Wang</strong>, Tuo Zhao, Rachel Ward, Molei Tao</p>
+    <p class="publication-venue">NeurIPS 2024</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="http://jmlr.org/papers/volume26/23-1691/23-1691.pdf">Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong>, Zhenghao Xu, Tuo Zhao, Molei Tao</p>
+    <p class="publication-venue">JMLR</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://ieeexplore.ieee.org/document/10147896">Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective</a>
+    <p class="publication-authors">Bo Yuan, Jiaojiao Fan, <strong>Yuqing Wang</strong>, Molei Tao, Yongxin Chen</p>
+    <p class="publication-venue">IEEE Control Systems Letters 2023</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2205.14173.pdf">Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport</a>
+    <p class="publication-authors">Lingkai Kong, <strong>Yuqing Wang</strong>, Molei Tao</p>
+    <p class="publication-venue">ICLR 2023</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2110.03677.pdf">Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong>, Minshuo Chen, Tuo Zhao, Molei Tao</p>
+    <p class="publication-venue">ICLR 2022</p>
+  </article>
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2002.06262.pdf">Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective</a>
+    <p class="publication-authors">Kaixuan Huang*, <strong>Yuqing Wang</strong>*, Molei Tao, Tuo Zhao <span class="publication-note">(*Equal contribution)</span></p>
+    <p class="publication-venue">NeurIPS 2020</p>
+  </article>
 
-[Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120)\
-**Yuqing Wang**, Shangding Gu\
-preprint
-
-[Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839)\
-**Yuqing Wang**, Ye He, Molei Tao\
-NeurIPS 2024  
-
-[Provable Acceleration of Nesterov’s Accelerated Gradient for Rectangular Matrix Factorization and Linear Neural Networks](https://arxiv.org/pdf/2410.09640)\
-Zhenghao Xu, **Yuqing Wang**, Tuo Zhao, Rachel Ward, Molei Tao\
-NeurIPS 2024 
-
-[Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf)
-\
-**Yuqing Wang**, Zhenghao Xu, Tuo Zhao, Molei Tao\
-JMLR 
-
-
-[Markov Chain Monte Carlo for Gaussian: A Linear Control Perspective](https://ieeexplore.ieee.org/document/10147896)    
-Bo Yuan, Jiaojiao Fan, **Yuqing Wang**, Molei Tao, Yongxin Chen  \
-IEEE Control Systems Letters 2023   
-
-[Momentum Stiefel Optimizer, with Applications to Suitably-Orthogonal Attention, and Optimal Transport](https://arxiv.org/pdf/2205.14173.pdf)  \
-Lingkai Kong, **Yuqing Wang**, Molei Tao  \
-ICLR 2023  
-
-[Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf)  \
-**Yuqing Wang**, Minshuo Chen, Tuo Zhao, Molei Tao  \
-ICLR 2022 
-
-[Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf)  \
-Kaixuan Huang\*, **Yuqing Wang**\*, Molei Tao, Tuo Zhao (*Equal contribution)  \
-NeurIPS 2020 
+</div>
 
 # Recent talks
 - 01/2026: MPG reunion workshop, Simons Institute
@@ -108,7 +120,7 @@ NeurIPS 2020
 # Teaching
 Instructor in AMS department, JHU:
 - EN 553.432 Bayesian Statistics\
-   <span style="color:#ABB2B9"> Fall 2025</span>
+   <span style="color:#ABB2B9"> Fall 2025, Fall 2026</span>
 - EN 553.361 Introduction to Optimization I\
    <span style="color:#ABB2B9"> Spring 2025, Spring 2026</span>
 
