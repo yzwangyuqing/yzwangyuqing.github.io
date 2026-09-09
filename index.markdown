@@ -26,18 +26,40 @@ layout: home
   </div>
 </section>
 
-I am a postdoc in the AMS department at JHU, working with Prof. [Yannis Kevrekidis](https://engineering.jhu.edu/faculty/ioannis-kevrekidis/). Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the [MPG program](https://simons.berkeley.edu/programs/modern-paradigms-generalization) in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
+I am a postdoc in the AMS department at JHU. Before that, I was a Research Fellow at the Simons Institute at UC Berkeley for the [MPG program](https://simons.berkeley.edu/programs/modern-paradigms-generalization) in fall 2024. I obtained my PhD in Mathematics at Georgia Institute of Technology, advised by Prof. [Molei Tao](https://mtao8.math.gatech.edu).
 
-<span class="job-market-note">I will be on the academic job market in the 2026-2027 cycle.</span>
+<span class="job-market-note">I am currently on the job market.</span>
 
 
 # Research
 
-I am interested in developing the mathematical foundations of deep learning theory in all its aspects, especially from a dynamical perspective. My research lies at the intersection of machine learning and applied math, combining tools from optimization, (stochastic) dynamics, computational math, analysis, topology, and sampling. I am currently also interested in large language models and diffusion models.
+I am interested in developing the mathematical foundations of deep learning. My research centers on characterizing training dynamics, combining tools from optimization, dynamical systems, computational math, and analysis. 
 
-Specifically, my work includes studying the effects of the following:
+<span class="research-subheading">General theoretical tools for deep learning:</span>
 
-- Training dynamics
+- Optimization: 
+  - [Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime](https://arxiv.org/pdf/2606.23364) 
+- Generalization: 
+  - [A Theoretical Analysis of Generalization Dynamics in Neural Networks under Gradient Descent with Weight Decay](https://arxiv.org/pdf/2609.07755) <span style="color:#999999"> _with Ioannis G. Kevrekidis, Mikhail Belkin_</span> 
+
+
+<span class="research-subheading">Specific learning mechanisms, models, and data:</span>
+
+- Implicit biases of large learning rates:
+  - [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>
+  - [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf) <span style="color:#999999"> _with Minshuo Chen, Tuo Zhao, Molei Tao_</span>
+- Model designs:
+  - [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839) <span style="color:#999999"> _with Ye He, Molei Tao_</span>
+  - [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf) <span style="color:#999999"> _with Kaixuan Huang, Molei Tao, Tuo Zhao_</span>
+- Data:
+  - [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime]() <span style="color:#999999"> _with Shangding Gu_</span>
+
+
+<!-- I am currently also interested in large language models and diffusion models. -->
+
+<!-- Specifically, my work includes studying the effects of the following: -->
+
+<!-- - Training dynamics
   - Large learning rate: \
     [Good regularity creates large learning rate implicit biases: edge of stability, balancing, and catapult](http://jmlr.org/papers/volume26/23-1691/23-1691.pdf) <span style="color:#999999"> _with Zhenghao Xu, Tuo Zhao, Molei Tao_</span>\
     [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf) <span style="color:#999999"> _with Minshuo Chen, Tuo Zhao, Molei Tao_</span>
@@ -47,25 +69,29 @@ Specifically, my work includes studying the effects of the following:
     [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839) <span style="color:#999999"> _with Ye He, Molei Tao_</span>
 
 - Data\
-  [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime](https://arxiv.org/pdf/2506.24120) <span style="color:#999999"> _with Shangding Gu_</span>
+  [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime]() <span style="color:#999999"> _with Shangding Gu_</span>
 - Architecture\
-  [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf) <span style="color:#999999"> _with Kaixuan Huang, Molei Tao, Tuo Zhao_</span>
+  [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf) <span style="color:#999999"> _with Kaixuan Huang, Molei Tao, Tuo Zhao_</span> -->
 
 
 
 
 
 # Preprints and Publications
-
 <div class="publication-list">
+  <article class="publication">
+    <a class="publication-title" href="https://arxiv.org/pdf/2609.07755">A Theoretical Analysis of Generalization Dynamics in Neural Networks under Gradient Descent with Weight Decay</a>
+    <p class="publication-authors"><strong>Yuqing Wang</strong>, Ioannis G. Kevrekidis, Mikhail Belkin</p>
+    <p class="publication-venue">Preprint</p>
+  </article>
   <article class="publication">
     <a class="publication-title" href="https://arxiv.org/pdf/2606.23364">Convergence of Gradient Descent for General Neural Network Architectures Beyond the NTK Regime</a>
     <p class="publication-authors"><strong>Yuqing Wang</strong></p>
     <p class="publication-venue">Preprint</p>
   </article>
   <article class="publication">
-    <a class="publication-title" href="https://arxiv.org/pdf/2506.24120">Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime</a>
-    <p class="publication-authors"><strong>Yuqing Wang</strong>, Shangding Gu</p>
+    <a class="publication-title" href="">Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime</a>
+    <p class="publication-authors">Shangding Gu, <strong>Yuqing Wang</strong></p>
     <p class="publication-venue">Preprint</p>
   </article>
   <article class="publication">
