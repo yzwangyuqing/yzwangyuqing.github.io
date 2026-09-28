@@ -52,7 +52,7 @@ I am interested in developing the mathematical foundations of deep learning. My 
   - [Evaluating the design space of diffusion-based generative models](https://arxiv.org/pdf/2406.12839) <span style="color:#999999"> _with Ye He, Molei Tao_</span>
   - [Why Do Deep Residual Networks Generalize Better than Deep Feedforward Networks? — A Neural Tangent Kernel Perspective](https://arxiv.org/pdf/2002.06262.pdf) <span style="color:#999999"> _with Kaixuan Huang, Molei Tao, Tuo Zhao_</span>
 - Data:
-  - [Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime]() <span style="color:#999999"> _with Shangding Gu_</span>
+  - [Rethinking Data Scaling Through Data Geometry: A Uniformity Perspective]() <span style="color:#999999"> _with Shangding Gu_</span>
 
 
 <!-- I am currently also interested in large language models and diffusion models. -->
@@ -90,7 +90,7 @@ I am interested in developing the mathematical foundations of deep learning. My 
     <p class="publication-venue">Preprint</p>
   </article>
   <article class="publication">
-    <a class="publication-title" href="">Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime</a>
+    <a class="publication-title" href="">Rethinking Data Scaling Through Data Geometry: A Uniformity Perspective</a>
     <p class="publication-authors">Shangding Gu, <strong>Yuqing Wang</strong></p>
     <p class="publication-venue">Preprint</p>
   </article>
@@ -145,7 +145,7 @@ I am interested in developing the mathematical foundations of deep learning. My 
 
 # Teaching
 Instructor in AMS department, JHU:
-- EN 553.432 Bayesian Statistics\
+- EN 553.432/632 Bayesian Statistics\
    <span style="color:#ABB2B9"> Fall 2025, Fall 2026</span>
 - EN 553.361 Introduction to Optimization I\
    <span style="color:#ABB2B9"> Spring 2025, Spring 2026</span>
