@@ -133,6 +133,7 @@ I am interested in developing the mathematical foundations of deep learning. My 
 </div>
 
 # Recent talks
+- 11/2026: SIAM MDS
 - 01/2026: MPG reunion workshop, Simons Institute
 - 01/2026: JMM
 - 11/2025: SIAM NNP
